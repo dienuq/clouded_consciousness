@@ -1,0 +1,20 @@
+RGB:
+Shadow: 140, 7, 7
+Anima: 30, 218, 247
+Animus: 224, 180, 20
+
+CHSV: (hue, 255,255)
+Shadow (deep red) - > hue 90 
+Anima (water blue turquoise)- > hue 190
+Animus (deep orange)- > hue 116   de gasit alta culoare
+Self (white)- > hue 0 - > chsv (0, 0 ,255)
+Persona (dim white)- > hue 0 - > chsv (0, 0 ,120)
+MOther(deep green)- > hue 173 -> parent (verde)
+Father (blue)- > hue 10  -> child
+Child (yellow) - > hue 130    ----- de scos galben
+Trickster (purple) - > hue 35
+
+ip ESP32: 192.168.43.64 (port 8888 -> ca sa primeasca mesaj)
+
+
+
